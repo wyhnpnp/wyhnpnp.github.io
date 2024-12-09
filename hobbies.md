@@ -11,6 +11,7 @@ title: Hobbies
 <div>
 <img src="/images/photo1.jpg">
 </div>
+<br><font color="#EAEAEA">The sunset outside the window of the tallest building on Shandong University Weihai Campus.</font><br>
 <br>Photography opened the door to a new world for me: I began to observe the weather, the timing of the rise and fall of the sun and moon, the forecast of sunset, meteors, and the Milky Way. **To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.**
 <div class="third">
 <img src="/images/photo2.jpg">
@@ -35,24 +36,10 @@ title: Hobbies
 
 ## Past Hobbies
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
+<div class="third">
+<img src="/images/paint1.jpg">
+<img src="/images/paint2.jpg">
+<img src="/images/paint3.jpg">
 </div>
-<br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
+<br><font color="#EAEAEA">I drew it in high school.</font><br>
+<br>Before going to college, I was studying sketching and almost became an art student.

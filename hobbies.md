@@ -17,19 +17,21 @@ title: Hobbies
 <img src="/images/photo3.jpg">
 <img src="/images/photo4.jpg">
 </div>
-<br>During my three years in Weihai, I took many meaningful photos and made some friends who took photos together. My camera is *Nikon Z50*, with lenses of *50-250 mm* and *16-50 mm*. In addition, I also have an *Olympus IS-5000* film camera. But in the past year, I have hardly touched them because I have devoted all my time to scientific research.<br>If you like the style of my photos, then we might be kindred spirits. More photos can be viewed on my [Little Red Book](https://www.xiaohongshu.com/user/profile/5b59dc27f7e8b977d3628016) account.
+<br>During my three years in Weihai, I took many meaningful photos and made some friends who took photos together. My camera is *Nikon Z50*, with lenses of *50-250 mm* and *16-50 mm*. In addition, I also have an *Olympus IS-5000* film camera. But in the past year, I have hardly touched them because I have devoted all my time to scientific research.<br>If you like the style of my photos, then we might be kindred spirits. More photos can be viewed on my [Little Red Book](https://www.xiaohongshu.com/user/profile/5b59dc27f7e8b977d3628016).
 
 ## DIY
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/DIY1.jpg">
+<img src="/images/DIY2.jpg">
+<img src="/images/DIY3.jpg">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
-
-[best universities in my hometown]:https://www.fzu.edu.cn/
-
+<div class="third">
+<img src="/images/DIY4.jpg">
+<img src="/images/DIY5.jpg">
+<img src="/images/DIY6.jpg">
+</div>
+<br>I have always been interested in making handicrafts since I was young. This skill helps me improve my hands-on ability. I like origami, twisting sticks, droppers, clay, pottery, and sewing. Of course, these are all for my lover.
 
 ## Past Hobbies
 

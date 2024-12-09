@@ -24,9 +24,7 @@ title: Awards
 - Apr 2020: Excellent Award in the 7th "Sharing Cup" College Student Science and Technology Sharing Service Innovation Competition (National Level) 
 - Apr 2022: Second Prize in Track B and Third Prize in Track O of the Shandong University Astronomy Association Photography Competition
 - Apr 2023: Third Prize in the 5th Graduate Photography Competition of Shandong University
-- Dec 2022: Third Prize in Weihai Network Culture Works Competition<br>
-
-<br>
+- Dec 2022: Third Prize in Weihai Network Culture Works Competition
 
 ## Honors
 - May 2016: Three Good Students in Yunnan Province (Provincial Level)

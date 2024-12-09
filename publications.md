@@ -16,30 +16,20 @@ title: Publications
 
 - [PWV retrieval performance evaluation for the fresh BDS-3 with multi-source data](https://doi.org/10.1029/2023EA002923)<br>Nan Jiang, Zhaorui Gao, **Yuhao Wu**, et al., 2023. *Earth and Space Science*. 10, e2023EA002923. (JCR Q2, IF=3.1). <br>
 
-  <br>
-
----
 ## Patent
 -	Method and System for Monitoring Extraordinary Rainstorm on Basis of Multi-source Data. <br>Nan Jiang, **Yuhao Wu**, Yan Xu, Tianhe Xu. 2023. Patent No.: US 11,852,779B1.<br>
 
----
 ## Software Copyright
 -	Batch retrieval software for water vapor based on Beidou/GNSS.<br>Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
 
 - GNSS-SNR water level retrieval software.<br>**Yuhao Wu**, Dongliang Guan. 2021. 2021SR1211116.<br>
 
----
 ## Degree Thesis
 
 - **Master's thesis:** Research and Application of Water Vapor Retrieval by Integrating Ground-based GNSS and Spaceborne Thermal Infrared Remote Sensing Data<br>**Yuhao Wu** (Advisor: Dr. [Yan Xu](https://apd.wh.sdu.edu.cn/info/1510/1912.htm)). <br>
 
 - **Bachelor's thesis:** Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System<br>**Yuhao Wu** (Advisor: Dr. [Dongliang Guan](https://cge.njtech.edu.cn/info/1045/2861.htm)). Excellent Graduation Thesis Award of Nanjing Tech University. First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province.<br>
-  <br>
-
----
 
 ## Early Project
 
 - Statistical analysis of academic output based on multi-source data: a case study of geomatics and geographic information discipline<br>*China National University Student Innovation & Entrepreneurship Development Program.*<br>**Yuhao Wu** (Advisors: Dr. Hua Shao). 2021-2022.
-
-  <br>

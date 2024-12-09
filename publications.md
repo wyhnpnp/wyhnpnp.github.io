@@ -12,7 +12,7 @@ title: Publications
 
 - [Revealing the water vapor transport during the Henan “7.20”heavy rainstorm based on ERA5 and real-time GNSS](https://doi.org/10.1016/j.ejrs.2024.02.004)<br>**Yuhao Wu**, Nan Jiang, Yan Xu#, et al., 2024. *Egyptian Journal of Remote Sensing and Space Sciences*. 27, 165-177. (JCR Q2, IF=4.4).<br>
 
-- [First PWV Retrieval using MERSI-LL onboard FY-3E and Cross Validation with Co-platform Occultation and Ground GNSS](https://doi.org/10.1029/2024GL108681)<br>Nan Jiang, **Yuhao Wu†**, Li, S, Yan Xu#, et al., 2024. *Geophysical Research Letters*. 51, e2024GL108681. (JCR Q1, IF=5.3).
+- [First PWV Retrieval using MERSI-LL onboard FY-3E and Cross Validation with Co-platform Occultation and Ground GNSS](https://doi.org/10.1029/2024GL108681)<br>Nan Jiang, **Yuhao Wu†**, Song Li, Yan Xu#, et al., 2024. *Geophysical Research Letters*. 51, e2024GL108681. (JCR Q1, IF=5.3).
 
 - [PWV retrieval performance evaluation for the fresh BDS-3 with multi-source data](https://doi.org/10.1029/2023EA002923)<br>Nan Jiang, Zhaorui Gao, **Yuhao Wu**, et al., 2023. *Earth and Space Science*. 10, e2023EA002923. (JCR Q2, IF=3.1). 
 
@@ -32,6 +32,6 @@ title: Publications
 
 ## Early Project
 
-- Statistical analysis of academic output based on multi-source data: a case study of geomatics and geographic information discipline<br>*China National University Student Innovation & Entrepreneurship Development Program.*<br>**Yuhao Wu** (Advisors: Dr. Hua Shao).<br>
+- Statistical analysis of academic output based on multi-source data: a case study of geomatics and geographic information discipline<br>*China National University Student Innovation & Entrepreneurship Development Program.*<br>**Yuhao Wu** (Advisors: Dr. Hua Shao).<br> 2021-2022.
 
   <br>

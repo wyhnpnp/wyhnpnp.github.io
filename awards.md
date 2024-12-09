@@ -18,11 +18,16 @@ title: Awards
 
 ## Competitions
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- Nov 2024: Second prize in the China post-graduate mathematical contest in modeling (Top 4%) (National Level) 
+- Nov 2019: Second Prize in the Remote Sensing Processing Group of the 11th National College GIS Skills Competition (National Level) 
+- May 2021: First Prize of Jiangsu Province in the 12th Beidou Cup National Youth Science and Technology Innovation Competition (Provincial Level) 
+- Apr 2020: Excellent Award in the 7th "Sharing Cup" College Student Science and Technology Sharing Service Innovation Competition (National Level) 
+- Apr 2022: Second Prize in Track B and Third Prize in Track O of the Shandong University Astronomy Association Photography Competition
+- Apr 2023: Third Prize in the 5th Graduate Photography Competition of Shandong University
+- Dec 2022: Third Prize in Weihai Network Culture Works Competition<br>
 
 <br>
+
+## honors
+- May 2016: Three Good Students in Yunnan Province (Provincial Level)
+

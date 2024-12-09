@@ -22,9 +22,9 @@ title: Publications
 
 ## Degree Thesis
 
-- **Master's thesis:** Research and Application of Water Vapor Retrieval by Integrating Ground-based GNSS and Spaceborne Thermal Infrared Remote Sensing Data<br>**Yuhao Wu** (Advisor: [Yan Xu](https://apd.wh.sdu.edu.cn/info/1510/1912.htm)). <br>
+- **Master's thesis:** Research and Application of Water Vapor Retrieval by Integrating Ground-based GNSS and Spaceborne Thermal Infrared Remote Sensing Data<br>**Yuhao Wu** (Advisor: Dr. [Yan Xu](https://apd.wh.sdu.edu.cn/info/1510/1912.htm)). <br>
 
-- **Bachelor's thesis:** Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System<br>**Yuhao Wu** (Advisor: [Dongliang Guan](https://cge.njtech.edu.cn/info/1045/2861.htm)). **Excellent Graduation Thesis Award of Nanjing Tech University.**<br>**First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province.**<br>
+- **Bachelor's thesis:** Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System<br>**Yuhao Wu** (Advisor: Dr. [Dongliang Guan](https://cge.njtech.edu.cn/info/1045/2861.htm)). Excellent Graduation Thesis Award of Nanjing Tech University. First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province.<br>
 
   <br>
 
@@ -36,6 +36,6 @@ title: Publications
 
 - Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
 
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+- Statistical analysis of academic output based on multi-source data: a case study of geomatics and geographic information discipline<br>*China National University Student Innovation & Entrepreneurship Development Program.*<br>**Yuhao Wu** (Advisors: Dr. Hua Shao).<br>
 
   <br>

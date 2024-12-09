@@ -22,7 +22,7 @@ title: Publications
 ## Patent
 -	Method and System for Monitoring Extraordinary Rainstorm on Basis of Multi-source Data. <br>Nan Jiang, **Yuhao Wu**, Yan Xu, Tianhe Xu. 2023. Patent No.: US 11,852,779B1.<br>
 
-## Software copyright
+## Software Copyright
 -	Batch retrieval software for water vapor based on Beidou/GNSS.<br>Yan Xu, **Yuhao Wu**, Nan Jiang, Tianhe Xu. 2022. 2023SR0222849.<br>
 
 - GNSS-SNR water level retrieval software.<br>**Yuhao Wu**, Dongliang Guan. 2021. 2021SR1211116.<br>

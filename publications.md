@@ -8,13 +8,13 @@ title: Publications
 
 ## Research Paper
 
-- [Improving the capability of water vapor retrieval from Landsat 8 using ensemble machine learning](https://doi.org/10.1016/j.jag.2023.103407)<br>**Wu, Y.**, Jiang, N., Xu, Y.#, et al.,2023. *International Journal of Applied Earth Observation and Geoinformation*. 122, 103407. (JCR Q1, IF=7.5).<br>
+- [Improving the capability of water vapor retrieval from Landsat 8 using ensemble machine learning](https://doi.org/10.1016/j.jag.2023.103407)<br>**Yuhao Wu**, Nan Jiang, Yan Xu#, et al., 2023. *International Journal of Applied Earth Observation and Geoinformation*. 122, 103407. (JCR Q1, IF=7.5).<br>
 
-- [Revealing the water vapor transport during the Henan “7.20”heavy rainstorm based on ERA5 and real-time GNSS](https://doi.org/10.1016/j.ejrs.2024.02.004)<br>**Wu, Y.**, Jiang, N., Xu, Y.#, et al.,2024. *Egyptian Journal of Remote Sensing and Space Sciences*. 27, 165-177. (JCR Q2, IF=4.4).<br>
+- [Revealing the water vapor transport during the Henan “7.20”heavy rainstorm based on ERA5 and real-time GNSS](https://doi.org/10.1016/j.ejrs.2024.02.004)<br>**Yuhao Wu**, Nan Jiang, Yan Xu#, et al., 2024. *Egyptian Journal of Remote Sensing and Space Sciences*. 27, 165-177. (JCR Q2, IF=4.4).<br>
 
-- [First PWV Retrieval using MERSI-LL onboard FY-3E and Cross Validation with Co-platform Occultation and Ground GNSS](https://doi.org/10.1029/2024GL108681)<br>Jiang, N., **Wu, Y.†**, Li, S, Xu, Y.#, et al., 2024. *Geophysical Research Letters*. 51, e2024GL108681 (JCR Q1, IF=5.3).
+- [First PWV Retrieval using MERSI-LL onboard FY-3E and Cross Validation with Co-platform Occultation and Ground GNSS](https://doi.org/10.1029/2024GL108681)<br>Nan Jiang, **Yuhao Wu†**, Li, S, Yan Xu#, et al., 2024. *Geophysical Research Letters*. 51, e2024GL108681 (JCR Q1, IF=5.3).
 
-- [PWV retrieval performance evaluation for the fresh BDS-3 with multi-source data](https://doi.org/10.1029/2023EA002923)<br>Jiang, N., Gao, Z., **Wu, Y.**, et al.,2023. *Earth and Space Science*. 10, e2023EA002923 (JCR Q2, IF=3.1). 
+- [PWV retrieval performance evaluation for the fresh BDS-3 with multi-source data](https://doi.org/10.1029/2023EA002923)<br>Nan Jiang, Zhaorui Gao, **Yuhao Wu**, et al., 2023. *Earth and Space Science*. 10, e2023EA002923 (JCR Q2, IF=3.1). 
 
   <br>
 
@@ -24,7 +24,7 @@ title: Publications
 
 - Master's thesis: Research and Application of Water Vapor Retrieval by Integrating Ground-based GNSS and Spaceborne Thermal Infrared Remote Sensing Data<br>**Yuhao Wu** (Advisor: [Yan Xu](https://apd.wh.sdu.edu.cn/info/1510/1912.htm)). <br>
 
-- Bachelor's thesis: Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System<br>**Yuhao Wu** (Advisor: [Dongliang Guan](https://cge.njtech.edu.cn/info/1045/2861.htm)). <br>**Excellent Graduation Thesis Award of Nanjing Tech University**<br>**First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province**<br>
+- Bachelor's thesis: Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System<br>**Yuhao Wu** (Advisor: [Dongliang Guan](https://cge.njtech.edu.cn/info/1045/2861.htm)). **Excellent Graduation Thesis Award of Nanjing Tech University. **<br>**First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province.**<br>
 
   <br>
 

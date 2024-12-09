@@ -11,10 +11,10 @@ title: Awards
 - Nov 2023: **National Scholarship for Master's Students** (¥20000)<br>
 - Sep 2024: Doctoral Basic Scholarship (¥10000)<br>
 - Oct 2022: Second Class Scholarship for Graduate Studies at Shandong University (¥3200)<br>
-- Nov 2022：Third Prize of Outstanding Graduate Student Source Award Fund at Shandong University (¥4000)<br>
-- Oct 2019：Guoheng Scholarship (¥2000)<br>Scholarship established by Guoheng Group
-- Undergraduate first prize scholarship at NJtech (¥3200, **Four times**)
-- Undergraduate special scholarship at NJtech (¥1600)
+- Nov 2022: Third Prize of Outstanding Graduate Student Source Award Fund at Shandong University (¥4000)<br>
+- Oct 2019: Guoheng Scholarship (¥2000) Established by Guoheng Group
+- From 2017 to 2021: Undergraduate first prize scholarship at NJtech (¥3200, **Four times**)
+- From 2017 to 2021: Undergraduate special scholarship at NJtech (¥1600)
 
 ## Competitions
 
@@ -30,4 +30,6 @@ title: Awards
 
 ## honors
 - May 2016: Three Good Students in Yunnan Province (Provincial Level)
-
+- Oct 2021: First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province (Provincial Level)
+- From 2017 to 2021: Exemplary individual, Excellent Student Cadre, Excellent League Member, Three Good Students, Excellent Volunteers, Excellent Graduates, and Excellent Graduation Design at NJtech (School Level) 
+- From 2021 to 2024: Outstanding Communist Youth League Member, Outstanding Graduate, and Annual Outstanding Graduate Student at Shandong University (School Level)<br>

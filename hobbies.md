@@ -11,8 +11,7 @@ title: Hobbies
 <div>
 <img src="/images/photo1.jpg">
 </div>
-<br><font color="#EAEAEA">The sunset outside the window of the tallest building on Shandong University Weihai Campus.</font><br>
-<br>Photography opened the door to a new world for me: I began to observe the weather, the timing of the rise and fall of the sun and moon, the forecast of sunset, meteors, and the Milky Way. **To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.**
+<br><font color="#ABABAB">The sunset outside the window of the tallest building on Shandong University Weihai Campus.</font><br>Photography opened the door to a new world for me: I began to observe the weather, the timing of the rise and fall of the sun and moon, the forecast of sunset, meteors, and the Milky Way. **To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.**
 <div class="third">
 <img src="/images/photo2.jpg">
 <img src="/images/photo3.jpg">
@@ -41,5 +40,4 @@ title: Hobbies
 <img src="/images/paint2.jpg">
 <img src="/images/paint3.jpg">
 </div>
-<br><font color="#EAEAEA">I drew it in high school.</font><br>
-<br>Before going to college, I was studying sketching and almost became an art student.
+<br><font color="#ABABAB">I drew it in high school.</font><br>Before going to college, I was studying sketching and almost became an art student.

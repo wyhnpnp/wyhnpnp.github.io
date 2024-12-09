@@ -28,7 +28,7 @@ title: Awards
 
 <br>
 
-## honors
+## Honors
 - May 2016: Three Good Students in Yunnan Province (Provincial Level)
 - Oct 2021: First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province (Provincial Level)
 - From 2017 to 2021: Exemplary individual, Excellent Student Cadre, Excellent League Member, Three Good Students, Excellent Volunteers, Excellent Graduates, and Excellent Graduation Design at NJtech (School Level) 

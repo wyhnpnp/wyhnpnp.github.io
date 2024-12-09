@@ -29,7 +29,7 @@ title: Publications
 
 - Research and Application of Water Vapor Retrieval by Integrating Ground-based GNSS and Spaceborne Thermal Infrared Remote Sensing Data<br>**Wu, Y.** (Advisor: [Xu, Y.](https://apd.wh.sdu.edu.cn/info/1510/1912.htm)). Master's thesis.<br>
 
-- Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System<br>**Wu, Y.** (Advisor: [Guan, D.](https://cge.njtech.edu.cn/info/1045/2861.htm)). Bachelor's thesis.<br>Received Excellent Graduation Thesis Award<br>
+- Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System<br>**Wu, Y.** (Advisor: [Guan, D.](https://cge.njtech.edu.cn/info/1045/2861.htm)). Bachelor's thesis.<br>**Excellent Graduation Thesis Award of Nanjing Tech University**<br>**First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province**<br>
 
   <br>
 

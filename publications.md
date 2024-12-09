@@ -19,17 +19,12 @@ title: Publications
   <br>
 
 ---
-#Ongoing Project
-#- Intelligent Communication Systems for Internet of Everything (Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21))
-#To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
-#<br>
-#---
 
 ## Degree Thesis
 
-- Research and Application of Water Vapor Retrieval by Integrating Ground-based GNSS and Spaceborne Thermal Infrared Remote Sensing Data<br>**Wu, Y.** (Advisor: [Xu, Y.](https://apd.wh.sdu.edu.cn/info/1510/1912.htm)). Master's thesis.<br>
+- Master's thesis: Research and Application of Water Vapor Retrieval by Integrating Ground-based GNSS and Spaceborne Thermal Infrared Remote Sensing Data<br>**Yuhao Wu** (Advisor: [Yan Xu](https://apd.wh.sdu.edu.cn/info/1510/1912.htm)). <br>
 
-- Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System<br>**Wu, Y.** (Advisor: [Guan, D.](https://cge.njtech.edu.cn/info/1045/2861.htm)). Bachelor's thesis.<br>**Excellent Graduation Thesis Award of Nanjing Tech University**<br>**First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province**<br>
+- Bachelor's thesis: Research on Water Level Change Monitoring Based on BeiDou Navigation Satellite System<br>**Yuhao Wu** (Advisor: [Dongliang Guan](https://cge.njtech.edu.cn/info/1045/2861.htm)). <br>**Excellent Graduation Thesis Award of Nanjing Tech University**<br>**First Prize for Outstanding Graduation Thesis of Undergraduate Geomatics Students in Jiangsu Province**<br>
 
   <br>
 

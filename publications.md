@@ -39,6 +39,6 @@ title: Publications
 
 ## Early Project
 
-- Statistical analysis of academic output based on multi-source data: a case study of geomatics and geographic information discipline<br>*China National University Student Innovation & Entrepreneurship Development Program.*<br>**Yuhao Wu** (Advisors: Dr. Hua Shao).<br> 2021-2022.
+- Statistical analysis of academic output based on multi-source data: a case study of geomatics and geographic information discipline<br>*China National University Student Innovation & Entrepreneurship Development Program.*<br>**Yuhao Wu** (Advisors: Dr. Hua Shao). 2021-2022.
 
   <br>

@@ -30,7 +30,7 @@ My current research focus is on water vapor retrieval based on GNSS and remote s
 ## News and Updates
 
 - **Nov 2024：**Our team won the second prize in the [China post-graduate mathematical contest in modeling](https://cpipc.acge.org.cn//cw/detail/4/2c9080159353177f0193536864dc0048) (Top 369/8947).
-- **Sep 2024**：I am very happy to continue my doctoral studies in engineering at Wuhan University!
+- **Sep 2024：**I am very happy to continue my doctoral studies in engineering at Wuhan University!
 - **June 2024：**Very excited to get a Master's degree in Science at Shandong University!
 - **Feb 2024：**My research paper on rainstorm in Henan has been accepted by EJRS!
 - **Dec 2023：**Very excited to be selected as Outstanding Graduate of Shandong University!

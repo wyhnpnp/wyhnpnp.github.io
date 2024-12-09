@@ -17,7 +17,7 @@ title: Hobbies
 <img src="/images/photo3.jpg">
 <img src="/images/photo4.jpg">
 </div>
-<br>During my three years in Weihai, I took many meaningful photos and made some friends who took photos together. My camera is *Nikon Z50*, with lenses of *50-250 mm* and *16-50 mm*. In addition, I also have an *Olympus IS-5000* film camera. But in the past year, I have hardly touched them because I have devoted all my time to scientific research.<br>If you like the style of my photos, then we might be kindred spirits. **More photos can be viewed on my [Little Red Book](https://www.xiaohongshu.com/user/profile/5b59dc27f7e8b977d3628016) account**.
+<br>During my three years in Weihai, I took many meaningful photos and made some friends who took photos together. My camera is *Nikon Z50*, with lenses of *50-250 mm* and *16-50 mm*. In addition, I also have an *Olympus IS-5000* film camera. But in the past year, I have hardly touched them because I have devoted all my time to scientific research.<br>If you like the style of my photos, then we might be kindred spirits. More photos can be viewed on my [Little Red Book](https://www.xiaohongshu.com/user/profile/5b59dc27f7e8b977d3628016) account.
 
 ## DIY
 

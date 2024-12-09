@@ -8,12 +8,17 @@ title: Hobbies
 
 ## Photography
 
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<div>
+<img src="/images/photo1.jpg">
 </div>
-<br>Photography opened the door to a new world for me: I began to observe the weather, the timing of the rise and fall of the sun and moon, the forecast of sunset, meteors, and the Milky Way. **To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.** During my three years in Weihai, I took many meaningful photos and made some friends who took photos together. My camera is *Nikon Z50*, with lenses of *50-250 mm* and *16-50 mm*. In addition, I also have an *Olympus IS-5000* film camera. But in the past year, I have hardly touched them because I have devoted all my time to scientific research.
+<br>Photography opened the door to a new world for me: I began to observe the weather, the timing of the rise and fall of the sun and moon, the forecast of sunset, meteors, and the Milky Way. **To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of life.**
+<div class="third">
+<img src="/images/photo2.jpg">
+<img src="/images/photo3.jpg">
+<img src="/images/photo4.jpg">
+</div>
+<br>During my three years in Weihai, I took many meaningful photos and made some friends who took photos together. My camera is *Nikon Z50*, with lenses of *50-250 mm* and *16-50 mm*. In addition, I also have an *Olympus IS-5000* film camera. But in the past year, I have hardly touched them because I have devoted all my time to scientific research.
+
 
 ## DIY
 

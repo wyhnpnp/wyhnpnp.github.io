@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://https://wyhnpnp.github.io/caihanlin.jpg" class="floatpic">
+<img src="/images/caihanlin.jpg" class="floatpic">
 
 Here is **Yuhao Wu**.<br>
 

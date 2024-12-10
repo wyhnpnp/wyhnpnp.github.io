@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/caihanlin.jpg" class="floatpic">
+<img src="/images/caihanlin.jpg" class="floatpic" width="800">
 
 Here is **Yuhao Wu**.<br>
 

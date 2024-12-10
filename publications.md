@@ -26,7 +26,7 @@ title: Publications
 
 ## Conference
 
-- **Oral report:** Analysis of a heavy rainstorm process in Henan, China based on multi-source data<br>*The XVIII International Congress for Mine Surveying, Xuzhou, China, October 27, 2022*<br>
+- **Oral:** Analysis of a heavy rainstorm process in Henan, China based on multi-source data<br>*The XVIII International Congress for Mine Surveying, Xuzhou, China, October 27, 2022*<br>
 
 - **Poster:** 基于SWCVR算法和集成机器学习的Landsat 8 TIRS水汽反演研究<br>*第五届中国大地测量和地球物理学学术大会. 中国武汉, 2023.4.22*<br>
 

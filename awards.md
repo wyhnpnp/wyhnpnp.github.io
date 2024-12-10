@@ -10,11 +10,12 @@ title: Awards
 
 - **Nov 2023:** **National Scholarship for Master's Students** (¥20000)<br>
 - **Sep 2024:** Doctoral Basic Scholarship at Wuhan University (¥10000)<br>
-- **Oct 2022:** Second Class Scholarship for Graduate Studies at Shandong University (¥3200)<br>
-- **Nov 2022:** Third Prize of Outstanding Graduate Student Source Award Fund at Shandong University (¥4000)<br>
+- **Oct 2022:** Second Class Scholarship at Shandong University (¥3200)<br>
+- **Nov 2021:** Third Prize of Outstanding Graduate Student Source Award Fund at Shandong University (¥4000)<br>
+- **Oct 2021:** Freshman Scholarship at Shandong University (¥3200)<br>
 - **Oct 2019:** Guoheng Scholarship (¥2000) Established by Guoheng Group
-- **From 2017 to 2021:** Undergraduate first prize scholarship at NJtech (¥3200, **Four times**)
-- **From 2017 to 2021:** Undergraduate special scholarship at NJtech (¥1600)
+- **From 2017 to 2021:** First prize scholarship at NJtech (¥3200, **Four times**)
+- **From 2017 to 2021:** Special scholarship at NJtech (¥1600)
 
 ## Competitions
 
